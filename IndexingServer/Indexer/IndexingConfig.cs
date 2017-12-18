@@ -83,7 +83,7 @@ namespace IndexingServer
                 //Read indexing Settings.
                 string inifileLocation = System.Windows.Forms.Application.StartupPath + @"\IndexingSettings.ini";
                 CustomUtility.IniFileParser parser = new CustomUtility.IniFileParser(inifileLocation);
-                NumberOfIndexingThreads = int.Parse(parser.GetSetting("INDEXING_SETTING", "totalThreads"));
+                //NumberOfIndexingThreads = int.Parse(parser.GetSetting("INDEXING_SETTING", "totalThreads"));
                 //SizeOfRamIndex = int.Parse(parser.GetSetting("INDEXING_SETTING", "SizeOfRamIndex"));
                 //maxBufferedDocs = int.Parse(parser.GetSetting("INDEXING_SETTING", "maxBufferedDocs"));
                 //mergeFactor = int.Parse(parser.GetSetting("INDEXING_SETTING", "mergeFactor"));
