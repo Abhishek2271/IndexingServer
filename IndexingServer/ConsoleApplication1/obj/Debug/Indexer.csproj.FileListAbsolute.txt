@@ -1,0 +1,5 @@
+D:\Program Files\Samples\IndexingServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Program Files\Samples\IndexingServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

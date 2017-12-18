@@ -1,0 +1,5 @@
+D:\Program Files\Samples\IndexingServer\Indexer\bin\Debug\Indexer.dll
+D:\Program Files\Samples\IndexingServer\Indexer\bin\Debug\Indexer.pdb
+D:\Program Files\Samples\IndexingServer\Indexer\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Samples\IndexingServer\Indexer\obj\Debug\Indexer.dll
+D:\Program Files\Samples\IndexingServer\Indexer\obj\Debug\Indexer.pdb
