@@ -7,3 +7,12 @@ D:\Program Files\Samples\IndexingServer\ConsoleApplication1\bin\Debug\Indexer.pd
 D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
 D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication.exe
 D:\Program Files\Samples\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication.pdb
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication.exe
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\obj\Debug\ConsoleApplication.pdb
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\ConsoleApplication.exe
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\ConsoleApplication.pdb
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\Indexer.dll
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\CustomUtility.dll
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\Lucene.Net.dll
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\bin\Debug\Indexer.pdb
+D:\Program Files\Common Files\New folder (2)\IndexingServer\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
