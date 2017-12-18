@@ -24,6 +24,7 @@ Steps to use:
 NOTE: Currently DB connectivity is disabled and the process is only visible in the console window. 
 --------------------------------------------------------------------------------------------------------------------------------
 TESTING THE CREATED INDEX:
+
 Prerequisite: JAVA should be installed.
 To test the created index, please go to \ConsoleApplication1\bin\Debug. Then open the lukeall-3.5.0.jar file. 
 Provide the index location this should open the index which should be searchable and the documents should be viewable within Luke.
@@ -32,4 +33,5 @@ NOTE: LUKE IS NOT MY WORK. It is a tool used to peek inside a Lucene index.
 
 Luke can also be downloaded from 
 http://www.npackd.org/p/org.getopt.Luke/3.5
+
 
