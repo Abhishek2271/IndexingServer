@@ -5,7 +5,7 @@ The application contains two parts:
 
 Generates an assembly file. The purpose is to create an api that can handle indexing of large volume of data. From the given folder, text (.txt) files are selected for indexing. The asssembly uses RAM to hold indexes partly until a certain limit is reached (50MB by default). The files are then written to disk and RAM is cleared for next batch of data. The assembly is meant to handle large number of large text files by making efficient use of available RAM to minimize disk IO so that the indexing is faster. Two separate threads are used to handle Disk IO and RAM index.
 
-The output is the searchable Lucene index.
+The output is a searchable Lucene index.
 
 2. Console application: 
 
